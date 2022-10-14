@@ -1,0 +1,9 @@
+{
+  "name": "js-utils-sweet",
+  "version": "1.0.0",
+  "description": "一些实用的js小工具，利于日常开发",
+  "main": "index.js",
+  "repository": "暂定",
+  "author": "xiaohuahuahuaer",
+  "license": "MIT"
+}
